@@ -29,7 +29,7 @@ Some screenshots of REST client you can find [here](img/)
 ### Buidl
 
 ```
-docker -t pcehr build .
+docker build -t pcehr .
 ```
 
 ### Test
@@ -51,8 +51,3 @@ API endpoints (opens with browser, thanks Django Rest Framework tool)
 * [http://127.0.0.1:8000/records/add/](http://127.0.0.1:8000/records/add/)
 * [http://127.0.0.1:8000/re_encryptions/](http://127.0.0.1:8000/re_encryptions/)
 * [http://127.0.0.1:8000/me/records/](http://127.0.0.1:8000/me/records/)
-
-## Authors
-
-* [Demyan Havdun](https://github.com/Utyuzhok), [OnGrid Systems](https://github.com/OnGridSystems)
-* [Kirill Varlamov](https://github.com/ongrid), [OnGrid Systems](https://github.com/OnGridSystems)
