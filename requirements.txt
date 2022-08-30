@@ -10,7 +10,7 @@ cytoolz==0.9.0.1
 Django==2.1.2
 djangorestframework==3.9.0
 eth-abi==1.2.2
-eth-account==0.3.0
+eth-account==0.5.9
 eth-bloom==1.0.1
 eth-hash==0.2.0
 eth-keyfile==0.5.1
